@@ -1,0 +1,5 @@
+interface GigabitEthernet2
+    description Yay NAPALM!
+    ip address 10.0.20.5 255.255.255.0
+    no shutdown
+end

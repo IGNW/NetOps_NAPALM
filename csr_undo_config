@@ -1,0 +1,5 @@
+interface GigabitEthernet2
+ description Shutdown
+ no ip address
+ shutdown
+end
